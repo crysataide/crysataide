@@ -33,6 +33,8 @@
 ## Ferramentas e Tecnologias que atualmente trabalho:
 <br>
 <div>
+  <img src="https://totvs.gallerycdn.vsassets.io/extensions/totvs/tds-vscode/1.3.17/1675257171320/Microsoft.VisualStudio.Services.Icons.Default" title="AdvPL" alt="AdvPL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
