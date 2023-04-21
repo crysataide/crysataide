@@ -20,11 +20,13 @@
 
 ## Minhas conquistas nesta empresa:
 
-### Integrações:
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
 - Uso da API iFood
 - Envio de Produtos via API e AdvPL
+ 
+ ### Integrações:
+ 
 <div>
   <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" width="80" height="80"/>
 <div/>
