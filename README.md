@@ -3,8 +3,8 @@
 # ❤ Olá, bem vindo ao meu Perfil GitHub!
 
 ### Me chamo Crystian ! 
-- </> Estudante do 3º período de Ciências da Computação
-- 💙 Estudo na Alura
+- </> Estudante do 3º período de Ciências da Computação - Estácio
+- 💙 Formações na Alura
 - 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
 - Estudo e trabalho com a linguagem AdvPL
 
