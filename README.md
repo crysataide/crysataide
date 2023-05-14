@@ -54,7 +54,7 @@
 </div>
  
 ## Meus projetos:
- - Barbearia Alura: https://crysataide.github.io/barbearia_alura/
+ - [Barbearia Alura](https://crysataide.github.io/barbearia_alura/)
 
 ## Contatos:
 
