@@ -29,6 +29,7 @@
  
 <div>
   <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" width="80" height="80"/>
+  <img src="https://image.pitchbook.com/0lb6VlbAQsh2bp8rOHD5eVJ3tIP1624629499543_200x200" width="80" height="80">
 <div/>
 <br>
 
