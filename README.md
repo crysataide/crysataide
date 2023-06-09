@@ -56,7 +56,7 @@
  
 ## Meus projetos:
  - [Barbearia Alura](https://crysataide.github.io/barbearia_alura/)
- - [Mercado Estácio]([https://github.com/crysataide/Projeto_Web](https://mercadoestacio.herokuapp.com/))
+ - [Mercado Estácio](https://mercadoestacio.herokuapp.com/)
 
 ## Contatos:
 
