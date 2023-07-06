@@ -2,16 +2,11 @@
 
 # ❤ Olá, bem vindo ao meu Perfil GitHub!
 
-### Me chamo Crystian ! 
+## Me chamo Crystian ! 
 - </> Estudante do 3º período de Ciências da Computação - Estácio
 - 💙 Formações na Alura
 - 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
 - Estudo e trabalho com a linguagem AdvPL
-
-## Você pode entrar em contato comigo:
-- 92 98407-6579
-- 92 98131-5164
-- crystianataide@gmail.com
 
 ## Hoje trabalho na:
 <div>
