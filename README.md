@@ -4,7 +4,7 @@
 
 ## Me chamo Crystian ! 
 - </> Estudante do 3º período de Ciências da Computação - Estácio
-- 💙 Formações na Alura
+- 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
 - 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
 - Estudo e trabalho com a linguagem AdvPL
 
