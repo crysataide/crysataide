@@ -17,8 +17,7 @@
 
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
-- Uso da API iFood
-- Envio de Produtos via API e AdvPL
+- Integração com a Linx Commerce
  
  ### Integrações:
  
