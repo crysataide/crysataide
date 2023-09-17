@@ -1,8 +1,7 @@
 <img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "35%" align = "right">
 
-# ❤ Olá, bem vindo ao meu Perfil GitHub!
+# ❤ Olá, me chamo Crystian ! 
 
-## Me chamo Crystian ! 
 - </> Estudante do 3º período de Ciências da Computação - Estácio
 - 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
 - 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
