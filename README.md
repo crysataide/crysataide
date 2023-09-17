@@ -21,8 +21,8 @@
  ### Integrações:
  
 <div>
+  <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" width="160" height="80"/>
   <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" width="80" height="80"/>
-  <img src="https://image.pitchbook.com/0lb6VlbAQsh2bp8rOHD5eVJ3tIP1624629499543_200x200" width="80" height="80">
 <div/>
 <br>
 
@@ -54,7 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="40"/>&nbsp;
 </div>
  
-## Meus projetos:
+## Meus projetos na Alura:
  - [Barbearia Alura](https://crysataide.github.io/barbearia_alura/).
  - [Mercado Estácio](https://mercadoestacio.herokuapp.com/).
  - [Alura Books](https://crysataide.github.io/alura_books/).
