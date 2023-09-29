@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 align="center"> Ferramentas e Tecnologias que atualmente trabalho: </h2>
+<h2> Ferramentas e Tecnologias que atualmente trabalho: </h2>
 
 <div>
   <img src="https://totvs.gallerycdn.vsassets.io/extensions/totvs/tds-vscode/1.3.17/1675257171320/Microsoft.VisualStudio.Services.Icons.Default" title="TOTVS" alt="TOTVS" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="center"> Possuo conhecimento: </h2>
+<h2> Possuo conhecimento: </h2>
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="center"> Estou aprendendo: </h2>
+<h2> Estou aprendendo: </h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -60,21 +60,17 @@
 <h2 align="center"> Contatos: </h2>
 
 <div align="center" id="badges">
-  <a href = "https://wa.me/92981315164"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;
-  <a href = "https://github.com/crysataide"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
-  <a href = "https://instagram.com/crys._.at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;
-  <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;
+  <a href = "https://wa.me/92981315164"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+  <a href = "https://github.com/crysataide"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+  <a href = "https://instagram.com/crys._.at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+  <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
 <div align="center">
-    <a href="https://github.com/crysataide">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysataide&layout=compact&langs_count=7&theme=dracula"/>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crysataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
