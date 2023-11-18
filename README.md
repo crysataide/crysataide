@@ -18,7 +18,8 @@
 - Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
-- Integração com a Linx Commerce
+- Suporte e Desenvolvimento com a Linx Commerce
+- Suporte e desenvolvimento com o iFood
  
 <h3> Integrações: </h3>
  
