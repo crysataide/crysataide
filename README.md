@@ -15,6 +15,7 @@
 
 <h2> Minhas conquistas nesta empresa: </h2>
 
+- Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
 - Integração com a Linx Commerce
