@@ -169,6 +169,13 @@
                 <br/>
                 <img alt="SQLite" title="SQLite" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
             </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>PostgreSQL</sup></b>
+                </span>
+                <br/>
+                <img alt="PostgreSQL" title="PostgreSQL" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
+            </td>
         </tr>
     </tbody>
 </table>
