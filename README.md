@@ -36,7 +36,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h3 align="center">Minhas Habilidades</h3 align="center">
+<h2 align="center">Minhas Habilidades</h2 align="center">
 
 <div align="center">
     <i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
