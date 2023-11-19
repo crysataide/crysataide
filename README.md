@@ -36,38 +36,179 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h3> Ferramentas e Tecnologias que atualmente trabalho: </h3>
+<h3 align="center">Minhas Habilidades</h3 align="center">
 
-<div>
-  <img src="https://totvs.gallerycdn.vsassets.io/extensions/totvs/tds-vscode/1.3.17/1675257171320/Microsoft.VisualStudio.Services.Icons.Default" title="TOTVS" alt="TOTVS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+<div align="center">
+    <i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
 </div>
+
+<div align="center"><h3>Languages</h3></div>
+<table align="center" width="400px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>AdvPL</b></sup>
+                </span>
+                <br/>
+                <img alt="AdvPL" title="AdvPL" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>HTML</b></sup>
+                </span>
+                <br/>
+                <img alt="HTML" title="HTML" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>CSS</b></sup>
+                </span>
+                <br/>
+                <img alt="CSS" title="CSS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>C</b></sup>
+                </span>
+                <br/>
+                <img alt="C" title="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
+            </td>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>PHP</b></sup>
+                </span>
+                <br/>
+                <img alt="PHP" title="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Python</b></sup>
+                </span>
+                <br/>
+                <img alt="Python" title="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>JavaScript</b></sup>
+                </span>
+                <br/>
+                <img alt="JavaScript" title="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Kotlin</b></sup>
+                </span>
+                <br/>
+                <img alt="Kotlin" title="Kotlin" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/>
+            </td>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Java</b></sup>
+                </span>
+                <br/>
+                <img alt="Java" title="Java" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div align="center"><h3>IDE's e Editores de códigos</h3></div>
+<table align="center" width="400px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>VSCode</b></sup>
+                </span>
+                <br/>
+                <img alt="VSCode" title="VSCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>InteliJ</b></sup>
+                </span>
+                <br/>
+                <img alt="InteliJ" title="InteliJ" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-svg-vector.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>CLion</b></sup>
+                </span>
+                <br/>
+                <img alt="CLion" title="CLion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div align="center"><h3>Bancos de Dados</h3></div>
+<table align="center" width="400px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Azure SQL Database</sup></b>
+                </span>
+                <br/>
+                <img alt="Azure SQL Database" title="Azure SQL Database" idth="50px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>MySQL</sup></b>
+                </span>
+                <br/>
+                <img alt="MySQL" title="MySQL" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>SQLite</sup></b>
+                </span>
+                <br/>
+                <img alt="SQLite" title="SQLite" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div align="center"><h3>Ferramentas</h3></div>
+<table align="center" width="400px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Git</b></sup>
+                </span>
+                <br/>
+                <img alt="Git" title="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>GitHub</b></sup>
+                </span>
+                <br/>
+                <img alt="GitHub" title="GitHub" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Azure</b></sup>
+                </span>
+                <br/>
+                <img alt="Azure" title="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Trello</b></sup>
+                </span>
+                <br/>
+                <img alt="Trello" title="Trello" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<h3> Possuo conhecimento: </h3>
-
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</div>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<h3> Estou aprendendo: </h3>
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="40"/>&nbsp;
-</div>
-
-<br>
 
 <h2 align="center"> Contatos: </h2>
 
