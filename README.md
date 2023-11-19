@@ -51,7 +51,7 @@
                     <sup><b>AdvPL</b></sup>
                 </span>
                 <br/>
-                <img alt="AdvPL" title="AdvPL" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png"/>
+                <img alt="AdvPL" title="AdvPL" width="50px" src="https://www.svgrepo.com/show/373420/advpl.svg"/>
             </td>
             <td width="80px" align="center">
                 <span>
@@ -183,6 +183,13 @@
 <table align="center" width="400px">
     <tbody>
         <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>TOTVS</b></sup>
+                </span>
+                <br/>
+                <img alt="TOTVS" title="TOTVS" width="50px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png"/>
+            </td>
             <td width="80px" align="center">
                 <span>
                     <sup><b>Git</b></sup>
