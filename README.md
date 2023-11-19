@@ -1,6 +1,6 @@
 <img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "35%" align = "right">
 
-<h1> ❤ Olá, me chamo Crystian ! </h1>
+<h1>😀 Olá, me chamo Crystian ! </h1>
 
 - </> Estudante do 3º período de Ciências da Computação - Estácio
 - 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
@@ -13,15 +13,19 @@
  <img src="https://voltaasaulasqueiroz.com/arquivos/imagens/GPT.gif" width="225" height="175" alt="Lojas Queiroz"/>
 <div/> 
 
-<h2> Minhas conquistas nesta empresa: </h2>
+<h3> Minhas conquistas nesta empresa: </h3>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
 - Suporte e Desenvolvimento com a Linx Commerce
 - Suporte e desenvolvimento com o iFood
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
-<h3> Integrações: </h3>
+<h3> Integrações que trabalho(ei): </h3>
  
 <div>
   <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" width="160" height="80"/>
@@ -30,7 +34,9 @@
 
 <br>
 
-<h2> Ferramentas e Tecnologias que atualmente trabalho: </h2>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<h3> Ferramentas e Tecnologias que atualmente trabalho: </h3>
 
 <div>
   <img src="https://totvs.gallerycdn.vsassets.io/extensions/totvs/tds-vscode/1.3.17/1675257171320/Microsoft.VisualStudio.Services.Icons.Default" title="TOTVS" alt="TOTVS" width="40" height="40"/>&nbsp;
@@ -39,7 +45,9 @@
   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
-<h2> Possuo conhecimento: </h2>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<h3> Possuo conhecimento: </h3>
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -47,7 +55,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-<h2> Estou aprendendo: </h2>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<h3> Estou aprendendo: </h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
