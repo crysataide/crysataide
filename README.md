@@ -219,6 +219,15 @@
                 <img alt="Trello" title="Trello" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>
             </td>
         </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>GitLab</b></sup>
+                </span>
+                <br/>
+                <img alt="GitLab" title="GitLab" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
+            </td>
+        </tr>
     </tbody>
 </table>
 
