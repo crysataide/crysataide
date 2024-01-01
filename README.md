@@ -20,17 +20,19 @@
 - Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
+- Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html)
 - Suporte e Desenvolvimento com a Linx Commerce
 - Suporte e desenvolvimento com o iFood
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
 <h3> Integrações que trabalho(ei): </h3>
- 
+
 <div>
-  <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" width="160" height="80"/>
-  <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" width="80" height="80"/>
-<div/>
+  <img src="https://www.agileecommerce.com.br/img/LOGO-AGILE-ECOMMERCE-4.png" height="80px"/>
+  <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" height="80px"/>
+  <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" height="80px"/>
+</div>
 
 <br>
 
@@ -154,6 +156,13 @@
                 </span>
                 <br/>
                 <img alt="Azure SQL Database" title="Azure SQL Database" idth="50px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Microsoft SQL Server</sup></b>
+                </span>
+                <br/>
+                <img alt="Microsoft SQL Server" title="Microsoft SQL Server" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
             </td>
             <td width="80px" align="center">
                 <span>
