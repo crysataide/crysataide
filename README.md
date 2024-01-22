@@ -20,9 +20,9 @@
 - Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
-- Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html)
-- Suporte e Desenvolvimento com a Linx Commerce
-- Suporte e desenvolvimento com o iFood
+- Suporte/Desenvolvimento/Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html)
+- Suporte/Desenvolvimento/Integração com o [iFood](https://parceiros.ifood.com.br/)
+- Suporte/Desenvolvimento com a [Linx Commerce](https://www.linx.com.br/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
