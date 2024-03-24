@@ -5,9 +5,9 @@
 - </> Estudante do 5º período de Ciências da Computação - Estácio
 - 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
 - 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
-- Estudo e trabalho com a linguagem AdvPL
+- Estudo e trabalho principalmente com a linguagem AdvPL
 
-<h2> Hoje trabalho na: </h2>
+<h2> Empresa atual: </h2>
 
 <div>
  <img src="https://voltaasaulasqueiroz.com/arquivos/imagens/GPT.gif" width="225" height="175" alt="Lojas Queiroz"/>
@@ -20,8 +20,7 @@
 - Uso do ERP Protheus
 - Linguagem Advanced Protheus Language - AdvPL
 - Manipulação com BD SQL Server
-- Suporte/Desenvolvimento/Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html)
-- Suporte/Desenvolvimento/Integração com o [iFood](https://parceiros.ifood.com.br/)
+- Suporte/Desenvolvimento/Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html).
 - Suporte/Desenvolvimento com a [Linx Commerce](https://www.linx.com.br/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -71,12 +70,21 @@
             </td>
             <td width="80px" align="center">
                 <span>
+                    <sup><b>JavaScript</b></sup>
+                </span>
+                <br/>
+                <img alt="JavaScript" title="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+            </td>
+            <td width="80px" align="center">
+                <span>
                     <sup><b>C</b></sup>
                 </span>
                 <br/>
                 <img alt="C" title="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>
             </td>
             </td>
+        </tr>
+        <tr valign="top">
             <td width="80px" align="center">
                 <span>
                     <sup><b>PHP</b></sup>
@@ -84,21 +92,12 @@
                 <br/>
                 <img alt="PHP" title="PHP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
             </td>
-        </tr>
-        <tr valign="top">
             <td width="80px" align="center">
                 <span>
                     <sup><b>Python</b></sup>
                 </span>
                 <br/>
                 <img alt="Python" title="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-            </td>
-            <td width="80px" align="center">
-                <span>
-                    <sup><b>JavaScript</b></sup>
-                </span>
-                <br/>
-                <img alt="JavaScript" title="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
             </td>
             <td width="80px" align="center">
                 <span>
@@ -150,35 +149,35 @@
 <table align="center" width="400px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="90px" align="center">
                 <span>
-                    <sup><b>Azure SQL Database</sup></b>
+                    <sup><b>Azure SQL</sup></b>
                 </span>
                 <br/>
-                <img alt="Azure SQL Database" title="Azure SQL Database" idth="50px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg"/>
+                <img alt="Azure SQL" title="Azure SQL" idth="50px" src="https://code.benco.io/icon-collection/azure-docs/sql-database.svg"/>
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
                 <span>
-                    <sup><b>Microsoft SQL Server</sup></b>
+                    <sup><b>SQL Server</sup></b>
                 </span>
                 <br/>
-                <img alt="Microsoft SQL Server" title="Microsoft SQL Server" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+                <img alt="SQL Server" title="SQL Server" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
                 <span>
                     <sup><b>MySQL</sup></b>
                 </span>
                 <br/>
                 <img alt="MySQL" title="MySQL" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
                 <span>
                     <sup><b>SQLite</sup></b>
                 </span>
                 <br/>
                 <img alt="SQLite" title="SQLite" idth="50px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
                 <span>
                     <sup><b>PostgreSQL</sup></b>
                 </span>
@@ -229,6 +228,13 @@
             </td>
         </tr>
         <tr valign="top">
+            <td width="80px" align="center">
+                <span>
+                    <sup><b>Vercel</b></sup>
+                </span>
+                <br/>
+                <img alt="Vercel" title="Vercel" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg"/>
+            </td>
             <td width="80px" align="center">
                 <span>
                     <sup><b>GitLab</b></sup>
