@@ -4,7 +4,7 @@
 
 - </> Estudante do 5º período de Ciências da Computação - Estácio
 - 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
-- 🧑‍💼 Desenvolverdor Jr no Grupo Queiroz
+- 🧑‍💼 Analista de Desenvolvimento Jr II no Grupo Queiroz
 - Estudo e trabalho principalmente com a linguagem AdvPL
 
 <h2> Empresa atual: </h2>
