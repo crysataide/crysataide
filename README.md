@@ -251,7 +251,7 @@
 <h2 align="center"> Contatos: </h2>
 
 <div align="center" id="badges">
-  <a href = "https://wa.me/92981315164"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+  <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
   <a href = "https://github.com/crysataide"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
   <a href = "https://instagram.com/crys._.at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
