@@ -2,10 +2,10 @@
 
 <h1>😀 Olá, me chamo Crystian ! </h1>
 
+- 🧑‍💼 Software Developer no Grupo Queiroz
 - </> Estudante do 5º período de Ciências da Computação - Estácio
-- 💙 Formações na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
-- 🧑‍💼 Analista de Desenvolvimento Jr II no Grupo Queiroz
-- Estudo e trabalho principalmente com a linguagem AdvPL
+- <img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="20px">&nbsp;&nbsp;&nbsp;Me aperfeiçoando na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
+- <img src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg" width="15px">&nbsp;&nbsp;&nbsp;&nbsp;Estudando design na Rive
 
 <h2> Empresa atual: </h2>
 
@@ -17,18 +17,17 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-- Uso do ERP Protheus
-- Linguagem Advanced Protheus Language - AdvPL
+- ERP TOTVS Protheus
+- Desenvolvimento em AdvPL
 - Manipulação com BD SQL Server
-- Suporte/Desenvolvimento/Integração do E-Commerce: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html).
-- Suporte/Desenvolvimento com a [Linx Commerce](https://www.linx.com.br/)
+- Analista/Suporte com os E-Commerces: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html) e [Linx Commerce](https://www.linx.com.br/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  
 <h3> Integrações que trabalho(ei): </h3>
 
 <div>
-  <img src="https://www.agileecommerce.com.br/img/LOGO-AGILE-ECOMMERCE-4.png" height="80px"/>
+  <img src="https://www.agileecommerce.com.br/img/LOGO-AGILE-ECOMMERCE-4.png" height="60px"/>
   <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" height="80px"/>
   <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" height="80px"/>
 </div>
@@ -37,7 +36,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h2 align="center">Minhas Habilidades</h2 align="center">
+<h2 align="center">My Skills</h2 align="center">
 
 <div align="center">
     <i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
@@ -117,7 +116,7 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>IDE's e Editores de códigos</h3></div>
+<div align="center"><h3>IDE's</h3></div>
 <table align="center" width="400px">
     <tbody>
         <tr valign="top">
@@ -145,7 +144,7 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>Bancos de Dados</h3></div>
+<div align="center"><h3>Tools for DataBase</h3></div>
 <table align="center" width="400px">
     <tbody>
         <tr valign="top">
@@ -187,7 +186,7 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>Ferramentas</h3></div>
+<div align="center"><h3>Tools</h3></div>
 <table align="center" width="400px">
     <tbody>
         <tr valign="top">
@@ -252,8 +251,6 @@
 
 <div align="center" id="badges">
   <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
-  <a href = "https://github.com/crysataide"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
-  <a href = "https://instagram.com/crys._.at" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
   <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
