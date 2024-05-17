@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "35%" align = "right">
+<img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "30%" align = "right">
 
 <h1>😀 Olá, me chamo Crystian ! </h1>
 
@@ -7,43 +7,32 @@
 - <img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="20px">&nbsp;&nbsp;&nbsp;Me aperfeiçoando na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
 - <img src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg" width="15px">&nbsp;&nbsp;&nbsp;&nbsp;Estudando design na Rive
 
-<h2> Empresa atual: </h2>
-
-<div>
- <img src="https://voltaasaulasqueiroz.com/arquivos/imagens/GPT.gif" width="225" height="175" alt="Lojas Queiroz"/>
-<div/> 
-
-<h3> Minhas conquistas nesta empresa: </h3>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-- ERP TOTVS Protheus
-- Desenvolvimento em AdvPL
-- Manipulação com BD SQL Server
-- Analista/Suporte com os E-Commerces: [Agile Commerce](https://www.agileecommerce.com.br/sobre.html) e [Linx Commerce](https://www.linx.com.br/)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
- 
-<h3> Integrações que trabalho(ei): </h3>
-
-<div>
-  <img src="https://www.agileecommerce.com.br/img/LOGO-AGILE-ECOMMERCE-4.png" height="60px"/>
-  <img src="https://d335luupugsy2.cloudfront.net/cms/files/51038/1689883557/$o1aomgdd4ql" height="80px"/>
-  <img src="https://play-lh.googleusercontent.com/1Y_VGOwYBFGY30KWxT4EpFkxkhr4VXAnMdPtbF56yUVpPkbSVV5mGdCvw1RI7aNX8Q" height="80px"/>
-</div>
-
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<h2> Empresa atual: </h2>
 
-<h2 align="center">My Skills</h2 align="center">
+<table>
+    <tr>
+        <td><img src="https://voltaasaulasqueiroz.com/arquivos/imagens/GPT.gif" width="225" height="175" alt="Lojas Queiroz"/></td>
+        <td>
+            <ul>
+                <li> ERP TOTVS Protheus</li>
+                <li> Desenvolvimento em AdvPL</li>
+                <li> Manipulação com BD SQL Server</li>
+                <li> Analista/Suporte com os E-Commerces: <a href="https://www.agileecommerce.com.br/sobre.html">Agile Commerce</a> e <a href="https://www.linx.com.br/">Linx Commerce</a></li>
+            </ul>
+        </td>
+    </tr>
+</table> 
+ 
+<br>
 
-<div align="center">
-    <i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
-</div>
+<h2> My Skills </h2>
 
-<div align="center"><h3>Languages</h3></div>
-<table align="center" width="400px">
+<i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
+
+<h3>Languages</h3>
+<table width="400px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -116,8 +105,9 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>IDE's</h3></div>
-<table align="center" width="400px">
+
+<h3>IDE's</h3>
+<table width="400px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -144,8 +134,9 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>Tools for DataBase</h3></div>
-<table align="center" width="400px">
+
+<h3>Tools for DataBase</h3>
+<table width="400px">
     <tbody>
         <tr valign="top">
             <td width="90px" align="center">
@@ -186,8 +177,9 @@
         </tr>
     </tbody>
 </table>
-<div align="center"><h3>Tools</h3></div>
-<table align="center" width="400px">
+
+<h3>Tools</h3>
+<table width="400px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -245,23 +237,25 @@
     </tbody>
 </table>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-<h2 align="center"> Contatos: </h2>
-
-<div align="center" id="badges">
-  <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
-  <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
-  <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 <br>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysataide&layout=compact&langs_count=7&theme=dracula"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crysataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<h2> Contatos: </h2>
+
+<div id="badges">
+    <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
+    <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+    <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">
+<br>
+
+<table>
+    <tr>
+        <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysataide&layout=compact&langs_count=7&theme=dracula"/></td>
+        <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=crysataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    </tr>
+</table>
+
+<p>
     <img src="https://github.com/crysataide/crysataide/blob/main/github-contribution-grid-snake.svg">
 </p>
