@@ -1,37 +1,44 @@
-<img src = "https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = "30%" align = "right">
-
-<h1>😀 Olá, me chamo Crystian ! </h1>
-
-- 🧑‍💼 Software Developer no Grupo Queiroz
-- </> Estudante do 5º período de Ciências da Computação - Estácio
-- <img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="20px">&nbsp;&nbsp;&nbsp;Me aperfeiçoando na Alura ([Meus Cursos](https://github.com/crysataide/Alura))
-- <img src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg" width="15px">&nbsp;&nbsp;&nbsp;&nbsp;Estudando design na Rive
-
+<p align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF7720&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=31">
+    <a href="https://www.linkedin.com/in/crystianataide/">
+        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&weight=500&size=40&color=FF7720&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+My+name;I'am+Software"/>
+        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&weight=500&size=40&color=FF7720&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=is+Crystian+Ataide;Developer"/>
+    </a>
+</p>
+<br>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=999999&theme=highcontrast&include_all_commits=true&count_private=true" />
+    <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=7&theme=highcontrast&show_icons=true" />
+</div>
 <br>
 
-<h2> Empresa atual: </h2>
+<div class="About_me">
+    <h3> About me: </h3>
+    <ul>
+        <li>🧑‍💼 Software Developer no Grupo Queiroz</li>
+        <li></> Aluno de Ciências da Computação na Estácio</li>
+        <li><img src="https://cursos.alura.com.br/assets/images/alura/favicon.ico" width="20px">&nbsp;&nbsp;&nbsp;Me aperfeiçoando na Alura <a href="https://github.com/crysataide/Alura">Meus Cursos</a></li>
+        <li><img src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg" width="15px">&nbsp;&nbsp;&nbsp;&nbsp;Estudando design com Rive</li>
+    </ul>
+</div>
 
-<table>
-    <tr>
-        <td><img src="https://voltaasaulasqueiroz.com/arquivos/imagens/GPT.gif" width="225" height="175" alt="Lojas Queiroz"/></td>
-        <td>
-            <ul>
-                <li> ERP TOTVS Protheus</li>
-                <li> Desenvolvimento em AdvPL</li>
-                <li> Manipulação com BD SQL Server</li>
-                <li> Analista/Suporte com os E-Commerces: <a href="https://www.agileecommerce.com.br/sobre.html">Agile Commerce</a> e <a href="https://www.linx.com.br/">Linx Commerce</a></li>
-            </ul>
-        </td>
-    </tr>
-</table> 
- 
-<br>
+<div class="Job_Skills">
+    <h3> Job Skills: </h3>
+    <ul>
+        <li> ERP TOTVS Protheus</li>
+        <li> Desenvolvimento em AdvPL</li>
+        <li> Manipulação com BD SQL Server</li>
+        <li> Analista/Suporte com os E-Commerces: <a href="https://www.agileecommerce.com.br/sobre.html">Agile Commerce</a> e <a href="https://www.linx.com.br/">Linx Commerce</a></li>
+    </ul>
+</div>
 
-<h2> My Skills </h2>
-
-<i>Linguagens ordenadas por proficiência (do maior para o menor)</i>
-
-<h3>Languages</h3>
+<div class="Main Languages">
+    <h3> Main Languages </h3>
+    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs">
+    <img src="https://img.shields.io/badge/-Python-ffe505?style=for-the-badge&logo=Python">
+    <img src="https://img.shields.io/badge/-HTML-ff8000?style=for-the-badge&logo=html5">
+    <img src="https://img.shields.io/badge/-CSS-ac8fa5?style=for-the-badge&logo=CSS3">
+    
 <table width="400px">
     <tbody>
         <tr valign="top">
@@ -105,6 +112,7 @@
         </tr>
     </tbody>
 </table>
+</div>
 
 <h3>IDE's</h3>
 <table width="400px">
@@ -239,9 +247,9 @@
 
 <br>
 
-<h2> Contatos: </h2>
 
-<div id="badges">
+<div id="Contacts">
+    <h3> Contacts: </h3>
     <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -249,13 +257,8 @@
 
 <br>
 
-<table>
-    <tr>
-        <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysataide&layout=compact&langs_count=7&theme=dracula"/></td>
-        <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=crysataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-    </tr>
-</table>
-
-<p>
+<p class="gif-grid-snake">
     <img src="https://github.com/crysataide/crysataide/blob/main/github-contribution-grid-snake.svg">
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF7720&section=footer&reversal=false&textBg=false&animation=twinkling&descAlign=31">
