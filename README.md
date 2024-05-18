@@ -31,9 +31,9 @@
 <div class="Job_Skills">
     <h3> Job Skills: </h3>
     <ul>
-        <li> ERP TOTVS Protheus</li>
-        <li> Programação em AdvPL</li>
+        <li> Programação em AdvPL/TLPP</li>
         <li> Manipulação de BD com SQL Server</li>
+        <li> Análise, desenvolvimento e suporte no ERP TOTVS Protheus</li>
         <li> Analista/Suporte com os E-Commerces: <a href="https://www.agileecommerce.com.br/sobre.html">Agile Commerce</a> e <a href="https://www.linx.com.br/">Linx Commerce</a></li>
     </ul>
 </div>
