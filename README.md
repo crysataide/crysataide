@@ -23,7 +23,7 @@
         <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software no Grupo Queiroz</li>
         <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Aluno de Ciências da Computação na Estácio</li>
         <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Me aperfeiçoando na Alura <a href="https://github.com/crysataide/Alura">Meus Cursos</a></li>
-        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Estudando design com Rive</li>
+        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando desenvolvimento de design na Rive</li>
     </ul>
 </div>
 
