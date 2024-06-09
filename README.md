@@ -8,8 +8,8 @@
 </div>
 <br>
 <div align="center">
-    <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true" />
-    <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true" />
+    <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" />
+    <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=0d1117&hide_border=true" />
 </div>
 <br>
 <div align="center">
