@@ -33,8 +33,8 @@
     <ul>
         <li> Programação em AdvPL/TLPP</li>
         <li> Manipulação de BD com SQL Server</li>
+        <li> Análise/Suporte do E-Commerce: <a href="https://lojasqueiroz.com.br">Agile Commerce</a></li>
         <li> Análise, desenvolvimento e suporte no ERP TOTVS Protheus</li>
-        <li> Analista/Suporte com os E-Commerces: <a href="https://www.agileecommerce.com.br/sobre.html">Agile Commerce</a> e <a href="https://www.linx.com.br/">Linx Commerce</a></li>
     </ul>
 </div>
 
@@ -42,8 +42,7 @@
 <div class="Main Languages">
     <h3> Main Languages </h3>
     <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs">
-    <img src="https://img.shields.io/badge/-HTML-ff8000?style=for-the-badge&logo=html5">
-    <img src="https://img.shields.io/badge/-CSS-ac8fa5?style=for-the-badge&logo=CSS3">
+    <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/-Python-ffe505?style=for-the-badge&logo=Python">
 </div>
 <div class="Tools">
@@ -61,7 +60,8 @@
 <div class="Other Knowledge">
     <h3> Other Knowledge: </h3>
     <div class="Other Languages">
-        <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
+        <img src="https://img.shields.io/badge/-HTML-ff8000?style=for-the-badge&logo=html5">
+        <img src="https://img.shields.io/badge/-CSS-ac8fa5?style=for-the-badge&logo=CSS3">
         <img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php">
         <img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c">
         <img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin">
