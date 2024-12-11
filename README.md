@@ -41,7 +41,8 @@
 [//]: # (Knowledge)
 <div class="Main Languages">
     <h3> Main Languages </h3>
-    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs">
+    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb">
+    <img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d">
     <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/-Python-ffe505?style=for-the-badge&logo=Python">
 </div>
