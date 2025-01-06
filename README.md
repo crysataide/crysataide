@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/-Python-ffe505?style=for-the-badge&logo=Python">
 </div>
+
 <div class="Tools">
     <h3> Tools: </h3>
     <div class="IDE's">
@@ -58,6 +59,7 @@
         <img src="https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=github">
     </div>
 </div>
+
 <div class="Other Knowledge">
     <h3> Other Knowledge: </h3>
     <div class="Other Languages">
@@ -80,8 +82,13 @@
         <img src="https://img.shields.io/badge/-GitLab-1e1e1e?style=for-the-badge&logo=gitlab">
         <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
         <img src="https://img.shields.io/badge/-Rive-1e1e1e?style=for-the-badge&logo=rive">
-        <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
     </div>
+</div>
+
+<div class="Methodologies">
+    <h3> Methodologies: </h3>
+    <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
+<!--     <img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel"> -->
 </div>
 
 [//]: # (Contacts)
