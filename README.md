@@ -8,8 +8,8 @@
 </div>
 <br>
 <div align="center">
-    <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" />
-    <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=0d1117&hide_border=true" />
+    <img width="50%" height="195px" src="https://github-readme-stats-abdulbasitrana.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" />
+    <img width="33%" height="195px" src="https://github-readme-stats-abdulbasitrana.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=0d1117&hide_border=true" />
 </div>
 <br>
 <div align="center">
@@ -23,7 +23,7 @@
         <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software no Grupo Queiroz</li>
         <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Aluno de Ciências da Computação na Estácio</li>
         <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Me aperfeiçoando na Alura <a href="https://github.com/crysataide/Alura">Meus Cursos</a></li>
-        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando desenvolvimento de design na Rive</li>
+        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando desenvolvimento de design com Rive</li>
     </ul>
 </div>
 
@@ -88,7 +88,7 @@
 <div class="Methodologies">
     <h3> Methodologies: </h3>
     <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
-<!--     <img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel"> -->
+    <img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion">
 </div>
 
 [//]: # (Contacts)
