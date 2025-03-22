@@ -1,18 +1,14 @@
 [//]: # (Presentation About Me)
-<div align="center">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF7720&section=header&reversal=false&textBg=false&animation=twinkling&descAlign=31">
-    <a href="https://www.linkedin.com/in/crystianataide/">
-        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&weight=500&size=40&color=FF7720&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+My+name;I'am+Software"/>
-        <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Sans+Mono&weight=500&size=40&color=FF7720&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=is+Crystian+Ataide;Developer"/>
-    </a>
+<div>
+    <h2>Hello, my name is Crystian Ataide</h2>
 </div>
 <br>
-<div align="center">
+<div>
     <img width="50%" height="195px" src="https://github-readme-stats-abdulbasitrana.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" />
     <img width="33%" height="195px" src="https://github-readme-stats-abdulbasitrana.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=0d1117&hide_border=true" />
 </div>
 <br>
-<div align="center">
+<div align="center>
     <img src="https://github.com/crysataide/crysataide/blob/main/github-contribution-grid-snake.svg">
 </div>
 
@@ -97,5 +93,4 @@
     <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF7720&section=footer&reversal=false&textBg=false&animation=twinkling&descAlign=31">
 </div>
