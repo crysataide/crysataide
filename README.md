@@ -32,27 +32,27 @@
     <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb">
     <img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d">
     <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/-Python-ffe505?style=for-the-badge&logo=Python">
+    <img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e">
 </div>
 
 <div class="Tools">
     <h3> Tools: </h3>
     <div class="IDE's">
         <img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code">
-        <img src="https://img.shields.io/badge/-Azure_DS-3e86f0?style=for-the-badge&logo=microsoft-azure">
+        <img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure">
     </div>
     <div class="Other">
-        <img src="https://img.shields.io/badge/-TOTVS_Protheus-4c6ca8?style=for-the-badge&logo=totvs">
-        <img src="https://img.shields.io/badge/-GIT-ff9000?style=for-the-badge&logo=git">
-        <img src="https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs">
+        <img src="https://img.shields.io/badge/-GIT-1e1e1e?style=for-the-badge&logo=git">
+        <img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github">
     </div>
 </div>
 
 <div class="Other Knowledge">
     <h3> Other Knowledge: </h3>
     <div class="Other Languages">
-        <img src="https://img.shields.io/badge/-HTML-ff8000?style=for-the-badge&logo=html5">
-        <img src="https://img.shields.io/badge/-CSS-ac8fa5?style=for-the-badge&logo=CSS3">
+        <img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5">
+        <img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3">
         <img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php">
         <img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c">
         <img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin">
@@ -77,6 +77,7 @@
     <h3> Methodologies: </h3>
     <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
     <img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion">
+    <img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian">
 </div>
 
 [//]: # (Contacts)
