@@ -6,7 +6,7 @@
 [//]: # (About Me)
 <div class="About_me">
     <ul>
-        <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Software Developer at Grupo Queiroz</li>
+        <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Software Developer at Queiroz Group</li>
         <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Computer Science Student at Estácio</li>
         <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Improving myself with Alura - <a href="https://github.com/crysataide/Alura">My Courses</a></li>
         <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Practicing design development with Rive</li>
