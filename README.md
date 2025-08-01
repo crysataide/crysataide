@@ -27,8 +27,10 @@
 [//]: # (GitHub Stats)
 <div class="GitHub-Stats">
     <h3> ⭐ GitHub Stats: </h3>
-    <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
-    <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
+    <div class="GitHub-Stats Stats" align="center">
+        <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
+        <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
+    </div>
 </div>
 
 [//]: # (Knowledge)
