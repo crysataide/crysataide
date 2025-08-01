@@ -36,55 +36,60 @@
 [//]: # (Knowledge)
 <div class="Main Languages">
     <h3> Main Languages </h3>
-    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb">
-    <img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d">
-    <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e">
+    <a href="#"><img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e"></a>
 </div>
 
 <div class="Tools">
     <h3> Tools: </h3>
     <div class="IDE's">
-        <img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code">
-        <img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure">
+        <a href="#"><img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure"></a>
     </div>
     <div class="Other">
-        <img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs">
-        <img src="https://img.shields.io/badge/-GIT-1e1e1e?style=for-the-badge&logo=git">
-        <img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github">
+        <a href="#"><img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-GIT-1e1e1e?style=for-the-badge&logo=git"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github"></a>
     </div>
 </div>
 
 <div class="Other Knowledge">
     <h3> Other Knowledge: </h3>
     <div class="Other Languages">
-        <img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5">
-        <img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3">
-        <img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php">
-        <img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c">
-        <img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin">
+        <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-C%23-%231e1e1e?style=for-the-badge&logo=csharp"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin"></a>
     </div>
+    <br>
     <div class="Other IDE's">
-        <img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea">
-        <img src="https://img.shields.io/badge/-CLion-1e1e1e?style=for-the-badge&logo=clion">
+        <a href="#"><img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-CLion-1e1e1e?style=for-the-badge&logo=clion"></a>
     </div>
+    <br>
     <div class="Other Tools For DataBase">
-        <img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql">
-        <img src="https://img.shields.io/badge/-PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql">
+        <a href="#"><img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql"></a>
     </div>
+    <br>
     <div class="Other Tools">
-        <img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel">
-        <img src="https://img.shields.io/badge/-GitLab-1e1e1e?style=for-the-badge&logo=gitlab">
-        <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
-        <img src="https://img.shields.io/badge/-Rive-1e1e1e?style=for-the-badge&logo=rive">
+        <a href="#"><img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-GitLab-1e1e1e?style=for-the-badge&logo=gitlab"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Rive-1e1e1e?style=for-the-badge&logo=rive"></a>
     </div>
 </div>
 
 <div class="Methodologies">
     <h3> Methodologies: </h3>
-    <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
-    <img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion">
-    <img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian">
+    <a href="#"><img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian"></a>
 </div>
 
 [//]: # (Contacts)
