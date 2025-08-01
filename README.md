@@ -98,4 +98,6 @@
 <br>
 
 [//]: # (Extras)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crysataide&bg_color=0d1117&hide_border=true&title_color=FF7720&line=FF7720&color=FF7720" align="center" />
+<div class="GitHub-Graph" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=crysataide&bg_color=0d1117&hide_border=true&title_color=FF7720&line=FF7720&color=FF7720" align="center" />
+</div>
