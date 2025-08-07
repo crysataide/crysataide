@@ -99,10 +99,3 @@
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
     <a href = "https://www.linkedin.com/in/crystianataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-
-[//]: # (Extras)
-<div class="GitHub-Graph" align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=crysataide&bg_color=0d1117&hide_border=true&title_color=FF7720&line=FF7720&color=FF7720" align="center" />
-</div>
