@@ -10,6 +10,7 @@
         <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Computer Science Student at Estácio</li>
         <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Improving myself with Alura - <a href="https://github.com/crysataide/Alura">My Courses</a></li>
         <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Practicing design development with Rive</li>
+        <li><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">&nbsp;&nbsp;Studying 3D modeling with Blender</li>
     </ul>
 </div>
 
@@ -17,6 +18,7 @@
 <div class="Job_Skills">
     <h3> Skills: </h3>
     <ul>
+        <li> Integrations with REST API</li>
         <li> Programming in AdvPL/TLPP</li>
         <li> Database Manipulation with SQL Server</li>
         <li> E-Commerce Analysis/Support: <a href="https://lojasqueiroz.com.br">Lojas Queiroz</a></li>
@@ -39,6 +41,9 @@
     <a href="#"><img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb"></a>
     <a href="#"><img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d"></a>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e"></a>
 </div>
 
@@ -58,7 +63,6 @@
 <div class="Other Knowledge">
     <h3> Other Knowledge: </h3>
     <div class="Other Languages">
-        <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
         <a href="#"><img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5"></a>
         <a href="#"><img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3"></a>
         <a href="#"><img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php"></a>
