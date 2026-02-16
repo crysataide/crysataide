@@ -1,28 +1,28 @@
 [//]: # (Presentation About Me)
 <div>
-    <h2>Hi, my name is Crystian👋</h2>
+    <h2>Olá, meu nome é Crystian👋</h2>
 </div>
 
 [//]: # (About Me)
 <div class="About_me">
     <ul>
-        <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Software Developer at Queiroz Group</li>
-        <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Computer Science Student at Estácio</li>
+        <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software PL no Grupo Queiroz</li>
+        <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Análise em Desenvolvimento de Sistemas na Estácio</li>
         <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Improving myself with Alura - <a href="https://github.com/crysataide/Alura">My Courses</a></li>
-        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Practicing design development with Rive</li>
-        <li><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">&nbsp;&nbsp;Studying 3D modeling with Blender</li>
+        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando Desenvolvimento de Design com o Rive</li>
+        <li><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">&nbsp;&nbsp;Estudando modelagem 3D no Blender</li>
     </ul>
 </div>
 
 [//]: # (Skills)
 <div class="Job_Skills">
-    <h3> Skills: </h3>
+    <h3> Habilidades: </h3>
     <ul>
-        <li> Integrations with REST API</li>
-        <li> Programming in AdvPL/TLPP</li>
-        <li> Database Manipulation with SQL Server</li>
-        <li> E-Commerce Analysis/Support: <a href="https://lojasqueiroz.com.br">Lojas Queiroz</a></li>
-        <li> Analysis, development and support in TOTVS Protheus ERP</li>
+        <li> Integrações e desenvolvimento de API REST</li>
+        <li> Trabalhando principalmente com a linguagem AdvPL/TLPP</li>
+        <li> Manipulação de Banco de Dados com SQL Server</li>
+        <li> Desenvolvimento e Implantação de E-Commerce: <a href="https://lojasqueiroz.com.br">Lojas Queiroz</a> - Agile | 🕐 VTEX (em implantação)</li>
+        <li> Análise de erros, desenvolvimento de rotinas e integração com ERP TOTVS Protheus</li>
     </ul>
 </div>
 
@@ -37,21 +37,23 @@
 
 [//]: # (Knowledge)
 <div class="Main Languages">
-    <h3> Main Languages </h3>
+    <h3> Principais Linguagens </h3>
     <a href="#"><img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb"></a>
     <a href="#"><img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d"></a>
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react"></a>
     <a href="#"><img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react"></a>
 </div>
 
 <div class="Tools">
-    <h3> Tools: </h3>
+    <h3> Ferramentas: </h3>
     <div class="IDE's">
         <a href="#"><img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code"></a>
         <a href="#"><img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-DataGrip-1e1e1e?style=for-the-badge&logo=datagrip"></a>
+        <a href="#"><img src="https://img.shields.io/badge/-Postman-1e1e1e?style=for-the-badge&logo=postman"></a>
     </div>
     <div class="Other">
         <a href="#"><img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs"></a>
@@ -61,7 +63,7 @@
 </div>
 
 <div class="Other Knowledge">
-    <h3> Other Knowledge: </h3>
+    <h3> Outros Conhecimentos: </h3>
     <div class="Other Languages">
         <a href="#"><img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5"></a>
         <a href="#"><img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3"></a>
@@ -90,7 +92,7 @@
 </div>
 
 <div class="Methodologies">
-    <h3> Methodologies: </h3>
+    <h3> Metodologias: </h3>
     <a href="#"><img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian"></a>
@@ -98,9 +100,7 @@
 
 [//]: # (Contacts)
 <div id="Contacts">
-    <h3> Contacts: </h3>
-    <a href = "https://www.linkedin.com/in/crysataide"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
+    <h3> Contatos: </h3>
     <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
-    <a href = "https://www.instagram.com/crys._.at"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
