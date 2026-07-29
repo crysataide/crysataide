@@ -106,5 +106,5 @@
 </div>
 
 <div id="SnakeGif">
-    <img src="https://github.com/crysataide/crysataide/blob/main/github-contribution-grid-snake.svg" alt="snake_gif">
+    <img src="./github-contribution-grid-snake.svg" alt="snake_gif">
 </div>
