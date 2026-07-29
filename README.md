@@ -4,7 +4,7 @@
 </div>
 
 [//]: # (About Me)
-<div class="About_me">
+<div align="letf">
     <ul>
         <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software PL no Grupo Queiroz</li>
         <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Análise em Desenvolvimento de Sistemas na Estácio</li>
@@ -15,7 +15,7 @@
 </div>
 
 [//]: # (Skills)
-<div class="Job_Skills">
+<div>
     <h3> Habilidades: </h3>
     <ul>
         <li> Integrações e desenvolvimento de API REST</li>
@@ -27,84 +27,88 @@
 </div>
 
 [//]: # (GitHub Stats)
-<div class="GitHub-Stats">
+<div>
     <h3> ⭐ GitHub Stats: </h3>
-    <div class="GitHub-Stats Stats" align="center">
+    <div align="center">
         <img width="50%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api?username=crysataide&show_icons=true&title_color=FF7720&text_color=d2dcd6&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
         <img width="33%" height="195px" src="https://github-readme-stats-crystian.vercel.app/api/top-langs/?username=crysataide&title_color=FF7720&text_color=d2dcd6&layout=compact&langs_count=8&theme=highcontrast&show_icons=true&bg_color=30,FF7720,0d1117,0d1117,0d1117,0d1117,0d1117,FF7720&hide_border=false&border_color=000000" />
     </div>
 </div>
 
 [//]: # (Knowledge)
-<div class="Main Languages">
+<div align="left">
     <h3> Principais Linguagens </h3>
-    <a href="#"><img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react"></a>
+    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb">
+    <img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d">
+    <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json">
+    <img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e">
+    <img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js">
+    <img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react">
 </div>
 
-<div class="Tools">
+[//]: # (Tools)
+<div align="left">
     <h3> Ferramentas: </h3>
-    <div class="IDE's">
-        <a href="#"><img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-DataGrip-1e1e1e?style=for-the-badge&logo=datagrip"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Postman-1e1e1e?style=for-the-badge&logo=postman"></a>
+    <div>
+        <img src="https://img.shields.io/badge/-VSCode-1e1e1e?style=for-the-badge&logo=visual-studio-code">
+        <img src="https://img.shields.io/badge/-Azure_DS-1e1e1e?style=for-the-badge&logo=microsoft-azure">
+        <img src="https://img.shields.io/badge/-DataGrip-1e1e1e?style=for-the-badge&logo=datagrip">
+        <img src="https://img.shields.io/badge/-Postman-1e1e1e?style=for-the-badge&logo=postman">
     </div>
-    <div class="Other">
-        <a href="#"><img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-GIT-1e1e1e?style=for-the-badge&logo=git"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github"></a>
+    <div>
+        <img src="https://img.shields.io/badge/-TOTVS_Protheus-1e1e1e?style=for-the-badge&logo=totvs">
+        <img src="https://img.shields.io/badge/-GIT-1e1e1e?style=for-the-badge&logo=git">
+        <img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github">
     </div>
 </div>
 
-<div class="Other Knowledge">
+[//]: # (Other Knowledge)
+<div align="left">
     <h3> Outros Conhecimentos: </h3>
     <div class="Other Languages">
-        <a href="#"><img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-C%23-%231e1e1e?style=for-the-badge&logo=csharp"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin"></a>
+        <img src="https://img.shields.io/badge/-HTML-1e1e1e?style=for-the-badge&logo=html5">
+        <img src="https://img.shields.io/badge/-CSS-1e1e1e?style=for-the-badge&logo=CSS3">
+        <img src="https://img.shields.io/badge/-PHP-1e1e1e?style=for-the-badge&logo=php">
+        <img src="https://img.shields.io/badge/-C-1e1e1e?style=for-the-badge&logo=c">
+        <img src="https://img.shields.io/badge/-C%23-%231e1e1e?style=for-the-badge&logo=csharp">
+        <img src="https://img.shields.io/badge/-Kotlin-1e1e1e?style=for-the-badge&logo=kotlin">
     </div>
     <br>
     <div class="Other IDE's">
-        <a href="#"><img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-CLion-1e1e1e?style=for-the-badge&logo=clion"></a>
+        <img src="https://img.shields.io/badge/-Intellij-1e1e1e?style=for-the-badge&logo=intellij-idea">
+        <img src="https://img.shields.io/badge/-CLion-1e1e1e?style=for-the-badge&logo=clion">
     </div>
     <br>
     <div class="Other Tools For DataBase">
-        <a href="#"><img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql"></a>
+        <img src="https://img.shields.io/badge/-MySQL-1e1e1e?style=for-the-badge&logo=mysql">
+        <img src="https://img.shields.io/badge/-PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql">
     </div>
     <br>
     <div class="Other Tools">
-        <a href="#"><img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-GitLab-1e1e1e?style=for-the-badge&logo=gitlab"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma"></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Rive-1e1e1e?style=for-the-badge&logo=rive"></a>
+        <img src="https://img.shields.io/badge/-Vercel-1e1e1e?style=for-the-badge&logo=vercel">
+        <img src="https://img.shields.io/badge/-GitLab-1e1e1e?style=for-the-badge&logo=gitlab">
+        <img src="https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=figma">
+        <img src="https://img.shields.io/badge/-Rive-1e1e1e?style=for-the-badge&logo=rive">
     </div>
 </div>
 
-<div class="Methodologies">
+[//]: # (Methodologies)
+<div align="left">
     <h3> Metodologias: </h3>
-    <a href="#"><img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion"></a>
-    <a href="#"><img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian"></a>
+    <img src="https://img.shields.io/badge/-Trello-1e1e1e?style=for-the-badge&logo=trello">
+    <img src="https://img.shields.io/badge/-Notion-1e1e1e?style=for-the-badge&logo=notion">
+    <img src="https://img.shields.io/badge/-Obsidian-1e1e1e?style=for-the-badge&logo=obsidian">
 </div>
 
 [//]: # (Contacts)
-<div id="Contacts">
+<div align="letf">
     <h3> Contatos: </h3>
     <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 </div>
 
-<div id="SnakeGif">
+[//]: # (SnakeGif)
+<div>
     <img src="./github-contribution-grid-snake.svg" alt="snake_gif">
 </div>
