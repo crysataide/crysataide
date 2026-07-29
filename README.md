@@ -4,15 +4,13 @@
 </div>
 
 [//]: # (About Me)
-<div align="letf">
-    <ul>
-        <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software PL no Grupo Queiroz</li>
-        <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Análise em Desenvolvimento de Sistemas na Estácio</li>
-        <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Aprimorando meus conhecimentos com a Alura - <a href="https://github.com/crysataide/Alura">Meus Cursos</a></li>
-        <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando Desenvolvimento de Design com o Rive</li>
-        <li><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">&nbsp;&nbsp;Estudando modelagem 3D com Blender</li>
-    </ul>
-</div>
+<ul>
+    <li><img width="25px" src="https://comercialqueiroz.agilecdn.com.br/imgs/icone-queiroz-1694514355.png"> Desenvolvedor de Software PL no Grupo Queiroz</li>
+    <li><img width="25px" src="https://github.com/crysataide/crysataide/assets/108529552/6e91f3b4-4644-4103-a80a-e2d9434528ee"> Análise em Desenvolvimento de Sistemas na Estácio</li>
+    <li><img width="20px" src="https://cursos.alura.com.br/assets/images/alura/favicon.ico">&nbsp;&nbsp;Aprimorando meus conhecimentos com a Alura - <a href="https://github.com/crysataide/Alura">Meus Cursos</a></li>
+    <li><img width="15px" src="https://framerusercontent.com/images/3zFbB2jdDFJ02sWnh7hLRZFujk.svg">&nbsp;&nbsp;&nbsp;Praticando Desenvolvimento de Design com o Rive</li>
+    <li><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg">&nbsp;&nbsp;Estudando modelagem 3D com Blender</li>
+</ul>
 
 [//]: # (Skills)
 <div>
