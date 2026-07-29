@@ -104,3 +104,7 @@
     <a href = "https://wa.me/92984674302"><img src="https://img.shields.io/badge/Whatsapp-1fbb2a?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;&nbsp;
     <a href = "mailto:crystianataide@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;
 </div>
+
+<div id="SnakeGif">
+    <img src="https://github.com/crysataide/crysataide/blob/main/github-contribution-grid-snake.svg" alt="snake_gif">
+</div>
