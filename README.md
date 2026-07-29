@@ -38,13 +38,13 @@
 [//]: # (Knowledge)
 <div align="left">
     <h3> Principais Linguagens </h3>
-    <img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb">
-    <img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d">
-    <img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript">
-    <img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json">
-    <img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e">
-    <img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js">
-    <img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react">
+    <a href="#"><img src="https://img.shields.io/badge/-AdvPL-1e1e1e?style=for-the-badge&logo=totvs&logoColor=7986cb"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-TL++-1e1e1e?style=for-the-badge&logo=totvs&logoColor=fbc02d"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JavaScript-1e1e1e?style=for-the-badge&logo=javascript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-JSON-1e1e1e?style=for-the-badge&logo=json"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Python-1e1e1e?style=for-the-badge&logo=Python&logoColor=ebda2e"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-1e1e1e?style=for-the-badge&logo=node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-REACT_js-1e1e1e?style=for-the-badge&logo=react"></a>
 </div>
 
 [//]: # (Tools)
